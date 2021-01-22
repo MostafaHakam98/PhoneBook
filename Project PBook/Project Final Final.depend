@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1545815612 source:c:\users\ayman\desktop\project final final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"validations.h"
+
+1545856905 source:c:\users\mostafa98\desktop\project final final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"validations.h"
+
+1545779396 source:e:\project final final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"validations.h"
+
+1545730930 source:e:\validations\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"validations.h"
+
+1545778384 e:\validations\validations.h
+
+1545682872 source:e:\validations\validations.c
+	"validations.h"
+	<string.h>
+
+1545776592 e:\project final final\validations.h
+
+1545776556 source:e:\project final final\validations.c
+	"validations.h"
+	<string.h>
+
+1545776592 c:\users\ayman\desktop\project final final\validations.h
+
+1545856782 source:c:\users\mostafa98\desktop\validations\validations.c
+	"validations.h"
+	<string.h>
+
+1545613340 c:\users\mostafa98\desktop\validations\validations.h
+
+1545776592 c:\users\mostafa98\desktop\project final final\validations.h
+
+1545826172 source:c:\users\ayman\desktop\project pbook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"validations.h"
+
+1545826174 c:\users\ayman\desktop\project pbook\validations.h
+
+1545826174 source:c:\users\ayman\desktop\project pbook\validations.c
+	"validations.h"
+	<string.h>
+
+1545868650 source:d:\project pbook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"phonebook.h"
+
+1545867948 d:\project pbook\validations.h
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+
+1545867300 source:d:\project pbook\validations.c
+	"validations.h"
+	<string.h>
+
+1545867948 d:\project pbook\phonebook.h
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+
+1545833586 source:c:\users\mostafa98\desktop\phonebook final\project pbook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"phonebook.h"
+
+1545833588 c:\users\mostafa98\desktop\phonebook final\project pbook\phonebook.h
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+
+1545871034 source:c:\users\mostafa98\desktop\phonebook final\project pbook\phonebook.c
+	"phonebook.h"
+
+1545833586 source:e:\faculty of engineering\term 3\phonebook final\project pbook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"phonebook.h"
+
+1545833588 e:\faculty of engineering\term 3\phonebook final\project pbook\phonebook.h
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+
+1545871034 source:e:\faculty of engineering\term 3\phonebook final\project pbook\phonebook.c
+	"phonebook.h"
+

@@ -1,0 +1,41 @@
+#ifndef VALIDATIONS_H
+#define VALIDATIONS_H
+#include <stdio.h>
+#include <time.h>
+#include <string.h>
+#include <stdlib.h>
+typedef struct{
+    int day;
+    int month;
+    int year;
+}date;
+typedef struct{
+    char first_name[15];
+    char last_name[15];
+    date birthdate;
+    char address[40];
+    char email[50];
+    char number[20];
+}entry;
+int sizeOfArray;
+entry *contacts;
+FILE *fptr;
+void mainmenu();
+void load();
+void query();
+void add();
+void del();
+void modify();
+void print();
+entry* getSorted();
+void save();
+void quit();
+void secDelay(int);
+void check(int);
+void intro();
+int substring(char*,char*);
+int validate_string();
+int validate_number(char*);
+int validate_email(char*);
+int validate_birthday(date);
+#endif
